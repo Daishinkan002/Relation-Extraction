@@ -21,7 +21,7 @@ def main(input_filepath, output_filepath):
 
 def print_list(parent_dir):
     '''
-    A function to print_list beautifully
+    A function to print soothing list
     '''
     for i, dir in enumerate(parent_dir):
         print(str(i+1) + ". ", dir)
